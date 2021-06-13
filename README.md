@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/uml-0769AD?style=for-the-badge&logo=UML&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <br><br><br><samp>My Design skills : </samp> <br>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
@@ -38,8 +38,8 @@
 <a href="http://medberrima.me/" target="_blank"><img src="https://img.shields.io/badge/website%20-%2314354C.svg?&style=for-the-badge&logo=website&logoColor=white"/></a>
 <a href="https://www.instagram.com/med.dsgnr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/medberrima/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.behance.net/medberrima" target="_blank"><img src="	https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://www.github.com/medberrima" target="_blank"><img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.behance.net/medberrima" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://www.github.com/medberrima" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br />
 <br />
   
