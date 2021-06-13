@@ -40,12 +40,10 @@
 <a href="https://www.linkedin.com/in/medberrima/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.behance.net/medberrima" target="_blank"><img src="	https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://www.github.com/medberrima" target="_blank"><img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.github.com/medberrima" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <br />
 <br />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medberrima&layout=compact&theme=react)](https://github.com/medberrima/github-readme-stats)
 
 </p>
-
 
