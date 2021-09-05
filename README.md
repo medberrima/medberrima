@@ -35,7 +35,7 @@
 <p align="center">
     I am at: <br>
 <a href="http://medberrima.me/" target="_blank"><img src="https://img.shields.io/badge/website%20-%2314354C.svg?&style=for-the-badge&logo=website&logoColor=white"/></a>
-<a href="https://www.instagram.com/med.dsgnr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/medberrimaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/medberrima/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.behance.net/medberrima" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://www.github.com/medberrima" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
