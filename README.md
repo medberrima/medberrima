@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=mysql&logoColor=black"/><br> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/uml-0769AD?style=for-the-badge&logo=UML&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <br><br><samp>My Design skills : </samp> <br>
