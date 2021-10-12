@@ -45,6 +45,6 @@
 <br />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medberrima&layout=compact&theme=react)](https://github.com/medberrima/github-readme-stats)
-
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
 </p>
 
