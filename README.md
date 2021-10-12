@@ -44,8 +44,9 @@
 <br />
 <br />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medberrima)](https://github.com/medberrima/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medberrima&layout=compact)](https://github.com/medberrima/github-readme-stats)
+<h4 align="center"> 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?medberrima" frameborder="0"></iframe>
+</h4>
 
 
 
