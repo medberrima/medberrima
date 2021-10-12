@@ -44,7 +44,8 @@
 <br />
 <br />
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medberrima)](https://github.com/medberrima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medberrima)](https://github.com/medberrima/github-readme-stats)
+
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 </p>
