@@ -44,10 +44,6 @@
 <br />
 <br />
   
- 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?medberrima" frameborder="0"></iframe>
-
-
 
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
