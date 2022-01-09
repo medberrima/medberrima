@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=white"/>
  <br><br><samp>DATABASE : </samp> <br>
    <img src="https://img.shields.io/badge/Mongo-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=mysql&logoColor=black"/>
+   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=black"/>
  <img src="https://img.shields.io/badge/pl/sql-red?style=for-the-badge&logo=pl-dsl&logoColor=black"/>
   <br><br><samp>TOOLS : </samp> <br>
    <img src="https://img.shields.io/badge/uml-0769AD?style=for-the-badge&logo=UML&logoColor=white"/> 
