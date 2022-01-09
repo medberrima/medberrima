@@ -24,24 +24,23 @@
   <img src="https://img.shields.io/badge/Spring Boot-61DAFs?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+ <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=white"/>
  <br><br><samp>DATABASE : </samp> <br>
    <img src="https://img.shields.io/badge/Mongo-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=mysql&logoColor=black"/><br> 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> 
- <br><br><samp>TOOLS : </samp> <br>
-  <img src="https://img.shields.io/badge/uml-0769AD?style=for-the-badge&logo=UML&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
-  
-
-
-  <br><br><samp>My Design skills : </samp> <br>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> 
- 
-</p>
-
-<p align="center">
+   <img src="https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=mysql&logoColor=black"/>
+ <img src="https://img.shields.io/badge/pl/sql-red?style=for-the-badge&logo=pl-dsl&logoColor=black"/>
+  <br><br><samp>TOOLS : </samp> <br>
+   <img src="https://img.shields.io/badge/uml-0769AD?style=for-the-badge&logo=UML&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/git/github-E34F26?style=for-the-badge&logo=github&logoColor=white"/>
+ <br><br><samp> other acquaintances : </samp> <br>
+   <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+  <br><br><samp>My Design skills </samp> <br>
+   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=black"/> <br><br>
     I am at: <br>
 <a href="http://medberrima.me/" target="_blank"><img src="https://img.shields.io/badge/website%20-%2314354C.svg?&style=for-the-badge&logo=website&logoColor=white"/></a>
 <a href="https://www.instagram.com/medberrimaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
