@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> 
   <img src="https://img.shields.io/badge/uml-0769AD?style=for-the-badge&logo=UML&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
-   <br><br><samp>I’m currently learning : </samp> <br>
   <img src="https://img.shields.io/badge/React Js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-61DAFs?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongo-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
