@@ -13,27 +13,27 @@
 
 <p align="center">
    <samp>My development skills : </samp> <br>
-    <br><br><samp>FRONTEND : </samp> <br>
+    <br><br><samp>Frontend: </samp> <br>
    <img src="https://img.shields.io/badge/React Js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <br><br><samp>backend : </samp> <br>
+ <br><br><samp>Backend : </samp> <br>
   <img src="https://img.shields.io/badge/express-DD0031?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-61DAFs?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
  <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=white"/>
- <br><br><samp>DATABASE : </samp> <br>
+ <br><br><samp>Database : </samp> <br>
    <img src="https://img.shields.io/badge/Mongo-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=black"/>
  <img src="https://img.shields.io/badge/pl/sql-red?style=for-the-badge&logo=pl-dsl&logoColor=black"/>
-  <br><br><samp>TOOLS : </samp> <br>
+  <br><br><samp>Tools : </samp> <br>
    <img src="https://img.shields.io/badge/uml-0769AD?style=for-the-badge&logo=UML&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
    <img src="https://img.shields.io/badge/git/github-E34F26?style=for-the-badge&logo=github&logoColor=white"/>
- <br><br><samp> other acquaintances : </samp> <br>
+ <br><br><samp> Other acquaintances : </samp> <br>
    <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
    <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
