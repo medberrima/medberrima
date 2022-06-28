@@ -15,11 +15,11 @@
    <samp>My development skills : </samp> 
 <br> 
    <img src="https://img.shields.io/badge/React Js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-   <img src="https://img.shields.io/badge/React Js-white?style=for-the-badge&logo=reactnative&logoColor=blue"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Js-61DAFB?style=for-the-badge&logo=react Native&logoColor=white"/>
 <br> <br>
   <img src="https://img.shields.io/badge/express-DD0031?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-61DAFs?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
