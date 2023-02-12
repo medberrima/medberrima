@@ -1,8 +1,5 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! My name is Mohamed</h2>
 <h3 align="center">Software developer & Graphic Designer from Tunisia</h3>
-<h4 align="center">
- I am 22 years old, I study IT and also I work as a freelance !
-</h4>
 
 - 🌐 My website: ([https://medberrima.me](https://medberrima.github.io/))
 
