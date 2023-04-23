@@ -21,15 +21,11 @@
 <br> <br>
   <img src="https://img.shields.io/badge/nest%20JS-D5214A?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express%20JS-E7D41C?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-61DAFs?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
- <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=white"/>
+
 <br> <br>
 
    <img src="https://img.shields.io/badge/Mongo-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=black"/>
- <img src="https://img.shields.io/badge/pl/sql-red?style=for-the-badge&logo=PL-SQL&logoColor=black"/>
    <br><br><samp>Tools : </samp> <br>
    <img src="https://img.shields.io/badge/azure%20devops-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
    <img src="https://img.shields.io/badge/git/github-E34F26?style=for-the-badge&logo=github&logoColor=white"/>
@@ -37,6 +33,10 @@
     <img src="https://img.shields.io/badge/Vs_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
  <br><br><samp> Other acquaintances :  </samp> <br>
    <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Spring Boot-61DAFs?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+ <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
   <br><br><samp>My Design skills : </samp> <br>
