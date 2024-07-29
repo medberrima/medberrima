@@ -38,14 +38,15 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=black"/> 
    <img src="https://img.shields.io/badge/Miro-yellow?style=for-the-badge&logo=Miro&logoColor=white"/>
-    <br><br><samp> Other acquaintances :  </samp> <br>
+ <!--    <br><br><samp> Other acquaintances :  </samp> <br>
    <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
    <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
      <img src="https://img.shields.io/badge/Spring Boot-61DAFs?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
- <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=white"/> <br><br>
+ <img src="https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=white"/> --> 
+ <br><br>
     I am at: <br>
 <a href="https://medberrima.github.io/" target="_blank"><img src="https://img.shields.io/badge/website%20-%2314354C.svg?&style=for-the-badge&logo=website&logoColor=white"/></a>
 <a href="https://www.instagram.com/medberrimaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
