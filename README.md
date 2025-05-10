@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! My name is Mohamed</h2>
 <h3 align="center">Software developer & Graphic Designer from Tunisia</h3>
 
-- 🌐 My website: ([https://medberrima.me](https://medberrima.github.io/))
+- 🌐 My website: ([https://medberrima.tech](https://medberrima.tech/))
 
 - 📫 How to reach me : **medberrima0@gmail.com**
 
