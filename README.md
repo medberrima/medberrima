@@ -1,68 +1,55 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! My name is Mohamed</h2>
-<h3 align="center">Software developer & Graphic Designer from Tunisia</h3>
+<img src="./header.png" alt="Med Berrima, full-stack engineer, web and mobile" width="100%">
 
-- 🌐 My website: ([https://medberrima.com](https://medberrima.com/))
+### I build and ship product across web and mobile.
 
-- 📫 How to reach me : **medberrima0@gmail.com**
+I'm a full-stack engineer in Nabeul, Tunisia (GMT+1). I take web and mobile apps from the first screen to the App Store and Google Play, then keep them running.
 
-<p align="center">
+**4+ years in production · 14 apps live on the stores · 100k+ downloads on Jayeg**
 
-   <br>
-   <samp>Frontend Development:</samp><br>
-   <img src="https://img.shields.io/badge/React Js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-   <img src="https://img.shields.io/badge/redux-7A41BA?style=for-the-badge&logo=redux&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-   
-   <br>
-   <br>
-   <samp>Backend Development:</samp><br>
-   <img src="https://img.shields.io/badge/nest%20JS-D5214A?style=for-the-badge&logo=nestjs&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Express%20JS-E7D41C?style=for-the-badge&logo=express&logoColor=black"/>
-   
-   <br>
-   <br>
-   <samp>Programming Languages:</samp><br>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-   <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=TypeScript&logoColor=white"/> 
-   
-   <br>
-   <br>
-   <samp>Database:</samp><br>
-   <img src="https://img.shields.io/badge/Mongo-green?style=for-the-badge&logo=mongodb&logoColor=black"/>
-   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=black"/>
+I've been a full-stack React & React Native developer at Frenchinnov since 2024. I'm open to remote, hybrid and freelance work, and to relocating to Europe or the Gulf.
 
-  <!-- <br>
-  <samp>Tools : </samp><br>
-  <img src="https://img.shields.io/badge/azure%20devops-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git/github-E34F26?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/uml-black?style=for-the-badge&logo=UML&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Vs_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/React_Native-18313A?style=flat-square&logo=react&logoColor=ECEEEE" alt="React Native"> <img src="https://img.shields.io/badge/React-18313A?style=flat-square&logo=react&logoColor=ECEEEE" alt="React"> <img src="https://img.shields.io/badge/Next.js-18313A?style=flat-square&logo=nextdotjs&logoColor=ECEEEE" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-18313A?style=flat-square&logo=typescript&logoColor=ECEEEE" alt="TypeScript"> <img src="https://img.shields.io/badge/NestJS-18313A?style=flat-square&logo=nestjs&logoColor=ECEEEE" alt="NestJS"> <img src="https://img.shields.io/badge/Node.js-18313A?style=flat-square&logo=nodedotjs&logoColor=ECEEEE" alt="Node.js"> <img src="https://img.shields.io/badge/PostgreSQL-18313A?style=flat-square&logo=postgresql&logoColor=ECEEEE" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-18313A?style=flat-square&logo=mongodb&logoColor=ECEEEE" alt="MongoDB"> <img src="https://img.shields.io/badge/Firebase-18313A?style=flat-square&logo=firebase&logoColor=ECEEEE" alt="Firebase">
 
-  <br>
-  <br>
-  <samp>Design Tools I Explore as a Developer : </samp><br>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Miro-yellow?style=for-the-badge&logo=Miro&logoColor=white"/>
+---
 
-  <br>
-  <br>
-  <samp>I am at :</samp><br>
-  <a href="https://medberrima.github.io/" target="_blank"><img src="https://img.shields.io/badge/website%20-%2314354C.svg?&style=for-the-badge&logo=website&logoColor=white"/></a>
-  <a href="https://www.instagram.com/medberrimaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/medberrima/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.behance.net/medberrima" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://www.github.com/medberrima" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <br />
-  <br />
+#### Now
 
-<h4 align="center"> Thanks for Visiting! :innocent:</h4>
+- **A web ordering kiosk for restaurants** runs on tablet, phone and kiosk from one codebase, with no per-machine updates. It's in testing.
+- **[invi.tn](https://invi.tn)** is my own product: digital wedding invitations for Tunisia, built solo in Next.js.
+- **[Yaqeen](https://yaqeen.medberrima.com)** is also mine: a Quran & prayer app, plus a web studio that turns a verse into a short video.
 
+#### Selected work
 
+| Product | What I did, and what it changed | Stack |
+| --- | --- | --- |
+| **FioEat**<br>[App Store](https://apps.apple.com/us/developer/fioeat/id1688703338) · [Google Play](https://play.google.com/store/apps/developer?id=French+innov) | Moved the ordering platform to TypeScript, then to white-label: one codebase and one deploy, with each restaurant's theme, menu and loyalty set from config. **11 brands on the stores, 15+ web shops, −40% customisation requests, −25% dev time.** | React · React Native · Stripe |
+| **FioManager**<br>[Web](https://fiomanager.frenchinnov.fr) · [App Store](https://apps.apple.com/tn/app/fio-manager/id6468999195) · [Google Play](https://play.google.com/store/apps/details?id=com.fiomanager) | Restaurant back-office: users, cash closing & accounting (CSV/PDF), invoices, kiosk catalogues and support. Redesigned the mobile app to the new brand without a UI designer. | React · React Native · Firebase |
+| **Jayeg** for Orange Tunisie | Started as the only mobile dev, then owned mobile and backend: gamification, audience targeting, campaign back-office, anti-fraud. **100k+ downloads, APIs up to 10× faster** after the MongoDB redesign. | React Native · NestJS · MongoDB |
+| **[invi.tn](https://invi.tn)** | Built solo: 40+ templates, multi-day weddings, RSVP from the invite, QR codes, Arabic / French / English. | Next.js |
+| **[Yaqeen Muslim](https://play.google.com/store/apps/details?id=com.kinov.yaqeen)** | Full Quran with 27 reciters and synced audio, GPS prayer times with Adhan, Qibla compass, and a verse-to-video creator. | Android |
 
-</p>
+I've also shipped [Partir En Omra](https://play.google.com/store/apps/details?id=com.partiromra) (Umrah & Hajj companion) and JAZR.IO (field audits), both in React Native. Case studies are at **[medberrima.com](https://www.medberrima.com)**.
+
+<details>
+<summary><b>Full toolbox</b></summary>
+<br>
+
+| | |
+| --- | --- |
+| **Mobile** | React Native · Expo · Capacitor · App Store & Google Play publishing |
+| **Web** | React · Next.js · TypeScript · Redux · Zustand · Tailwind CSS |
+| **Backend & data** | NestJS · Node.js · Express · PostgreSQL · Supabase · MongoDB · MySQL · Firebase |
+| **Payments & wallets** | Stripe · Apple Pay · Google Pay · Apple Wallet · Google Wallet |
+| **Integrations** | Apple & Google Sign-In · Firebase Analytics · Uber Delivery API · Socket.io · WebRTC |
+| **Delivery** | Git · Docker · GitHub Actions · Azure DevOps · Jira · Swagger · Scrum · Figma |
+| **AI-assisted dev** | Claude Code · GitHub Copilot · Claude · ChatGPT · Gemini |
+
+</details>
+
+**I also design** logos, brand identities and UI, which I've done since 2020. See my work on [Behance](https://www.behance.net/medberrima).
+
+I work in Arabic, French and English.
+
+---
+
+**[medberrima.com](https://www.medberrima.com)** · [CV](https://www.medberrima.com/cv) · [LinkedIn](https://www.linkedin.com/in/medberrima) · [Behance](https://www.behance.net/medberrima) · medberrima0@gmail.com
