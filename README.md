@@ -1,4 +1,4 @@
-<img src="./header.png" alt="Med Berrima, full-stack engineer, web and mobile" width="100%">
+<a href="https://www.medberrima.com"><img src="./header.webp" alt="Med Berrima, full-stack engineer, web and mobile" width="100%"></a>
 
 ### I build and ship product across web and mobile.
 
@@ -6,29 +6,38 @@ I'm a full-stack engineer in Nabeul, Tunisia (GMT+1). I take web and mobile apps
 
 **4+ years in production · 14 apps live on the stores · 100k+ downloads on Jayeg**
 
-I've been a full-stack React & React Native developer at Frenchinnov since 2024. I'm open to remote, hybrid and freelance work, and to relocating to Europe or the Gulf.
+I've been a full-stack React & React Native developer at Frenchinnov since 2024.
+
+<img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20work-remote%20%C2%B7%20hybrid%20%C2%B7%20freelance-13724F?style=flat-square&labelColor=0D1C21" alt="Open to work: remote, hybrid, freelance"> <img src="https://img.shields.io/badge/Relocation-Europe%20%C2%B7%20Gulf-295360?style=flat-square&labelColor=0D1C21" alt="Open to relocation: Europe, Gulf">
 
 <img src="https://img.shields.io/badge/React_Native-18313A?style=flat-square&logo=react&logoColor=ECEEEE" alt="React Native"> <img src="https://img.shields.io/badge/React-18313A?style=flat-square&logo=react&logoColor=ECEEEE" alt="React"> <img src="https://img.shields.io/badge/Next.js-18313A?style=flat-square&logo=nextdotjs&logoColor=ECEEEE" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-18313A?style=flat-square&logo=typescript&logoColor=ECEEEE" alt="TypeScript"> <img src="https://img.shields.io/badge/NestJS-18313A?style=flat-square&logo=nestjs&logoColor=ECEEEE" alt="NestJS"> <img src="https://img.shields.io/badge/Node.js-18313A?style=flat-square&logo=nodedotjs&logoColor=ECEEEE" alt="Node.js"> <img src="https://img.shields.io/badge/PostgreSQL-18313A?style=flat-square&logo=postgresql&logoColor=ECEEEE" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-18313A?style=flat-square&logo=mongodb&logoColor=ECEEEE" alt="MongoDB"> <img src="https://img.shields.io/badge/Firebase-18313A?style=flat-square&logo=firebase&logoColor=ECEEEE" alt="Firebase">
 
----
+<br>
 
-#### Now
+### Now
 
 - **A web ordering kiosk for restaurants** runs on tablet, phone and kiosk from one codebase, with no per-machine updates. It's in testing.
 - **[invi.tn](https://invi.tn)** is my own product: digital wedding invitations for Tunisia, built solo in Next.js.
 - **[Yaqeen](https://yaqeen.medberrima.com)** is also mine: a Quran & prayer app, plus a web studio that turns a verse into a short video.
 
-#### Selected work
+<br>
 
-| Product | What I did, and what it changed | Stack |
-| --- | --- | --- |
-| **FioEat**<br>[App Store](https://apps.apple.com/us/developer/fioeat/id1688703338) · [Google Play](https://play.google.com/store/apps/developer?id=French+innov) | Moved the ordering platform to TypeScript, then to white-label: one codebase and one deploy, with each restaurant's theme, menu and loyalty set from config. **11 brands on the stores, 15+ web shops, −40% customisation requests, −25% dev time.** | React · React Native · Stripe |
-| **FioManager**<br>[Web](https://fiomanager.frenchinnov.fr) · [App Store](https://apps.apple.com/tn/app/fio-manager/id6468999195) · [Google Play](https://play.google.com/store/apps/details?id=com.fiomanager) | Restaurant back-office: users, cash closing & accounting (CSV/PDF), invoices, kiosk catalogues and support. Redesigned the mobile app to the new brand without a UI designer. | React · React Native · Firebase |
-| **Jayeg** for Orange Tunisie | Started as the only mobile dev, then owned mobile and backend: gamification, audience targeting, campaign back-office, anti-fraud. **100k+ downloads, APIs up to 10× faster** after the MongoDB redesign. | React Native · NestJS · MongoDB |
-| **[invi.tn](https://invi.tn)** | Built solo: 40+ templates, multi-day weddings, RSVP from the invite, QR codes, Arabic / French / English. | Next.js |
-| **[Yaqeen Muslim](https://play.google.com/store/apps/details?id=com.kinov.yaqeen)** | Full Quran with 27 reciters and synced audio, GPS prayer times with Adhan, Qibla compass, and a verse-to-video creator. | Android |
+### Selected work
 
-I've also shipped [Partir En Omra](https://play.google.com/store/apps/details?id=com.partiromra) (Umrah & Hajj companion) and JAZR.IO (field audits), both in React Native. Case studies are at **[medberrima.com](https://www.medberrima.com)**.
+<p>
+  <a href="https://play.google.com/store/apps/developer?id=French+innov"><img src="./assets/work-fioeat.webp" width="49%" alt="FioEat: white-label ordering. One codebase, a branded app and web shop for every restaurant. 11 restaurant brands on the stores. React, React Native, Stripe."></a>
+  <a href="https://fiomanager.frenchinnov.fr"><img src="./assets/work-fiomanager.webp" width="49%" alt="FioManager: restaurant back-office for cash closing, accounting, invoices, kiosks and support. Web, iOS and Android. React, React Native, Firebase."></a>
+</p>
+<p>
+  <a href="https://www.medberrima.com/portfolio"><img src="./assets/work-jayeg.webp" width="49%" alt="Jayeg for Orange Tunisie: gamified rewards app, 100k+ downloads, APIs up to 10x faster. React Native, NestJS, MongoDB."></a>
+  <a href="https://invi.tn"><img src="./assets/work-invi.webp" width="49%" alt="invi.tn, my product built solo: wedding invitations for Tunisia with RSVP and WhatsApp sharing. 40+ templates. Next.js, React."></a>
+</p>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.kinov.yaqeen"><img src="./assets/work-yaqeen.webp" width="49%" alt="Yaqeen, my Android app: full Quran with synced audio from 27 reciters, prayer times with Adhan, Qibla."></a>
+  <a href="https://play.google.com/store/apps/details?id=com.partiromra"><img src="./assets/work-omra.webp" width="49%" alt="Partir En Omra, freelance: Umrah and Hajj companion app for a travel agency near Paris, with offline Qibla. React Native, Firebase, Zustand."></a>
+</p>
+
+More projects and case studies are on **[medberrima.com/portfolio](https://www.medberrima.com/portfolio)**.
 
 <details>
 <summary><b>Full toolbox</b></summary>
@@ -46,10 +55,16 @@ I've also shipped [Partir En Omra](https://play.google.com/store/apps/details?id
 
 </details>
 
-**I also design** logos, brand identities and UI, which I've done since 2020. See my work on [Behance](https://www.behance.net/medberrima).
+**I also design** logos, brand identities and UI, which I've done since 2020. See my work on [Behance](https://www.behance.net/medberrima). I work in Arabic, French and English.
 
-I work in Arabic, French and English.
+<br>
 
----
+<a href="https://www.medberrima.com"><img src="./assets/footer.webp" alt="Let's build something. medberrima.com, medberrima0@gmail.com" width="100%"></a>
 
-**[medberrima.com](https://www.medberrima.com)** · [CV](https://www.medberrima.com/cv) · [LinkedIn](https://www.linkedin.com/in/medberrima) · [Behance](https://www.behance.net/medberrima) · medberrima0@gmail.com
+<p align="center">
+  <a href="https://www.medberrima.com"><img src="./assets/btn-site.webp" height="38" alt="Website"></a>
+  <a href="https://www.medberrima.com/cv"><img src="./assets/btn-cv.webp" height="38" alt="CV"></a>
+  <a href="https://www.linkedin.com/in/medberrima"><img src="./assets/btn-linkedin.webp" height="38" alt="LinkedIn"></a>
+  <a href="https://www.behance.net/medberrima"><img src="./assets/btn-behance.webp" height="38" alt="Behance"></a>
+  <a href="mailto:medberrima0@gmail.com"><img src="./assets/btn-email.webp" height="38" alt="Email"></a>
+</p>
